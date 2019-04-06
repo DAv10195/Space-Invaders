@@ -1,6 +1,6 @@
 Made by David Abramov.
 
-This implementation of the classic Space Invaders game was written (using the same ifrastructure and tools as my Arkanoid game)
+This implementation of the classic Space Invaders game was written (using the same infrastructure and tools as my Arkanoid game)
 in Java as a project in the Object-Oriented course I took at Bar Ilan University. 
 
 the makefile has 3 targets:
